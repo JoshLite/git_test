@@ -2,12 +2,12 @@ body {
     background-color: lightblue;
   }
   
-  h1 {
+  .test_header {
     color: rgb(0, 0, 0);
     text-align: center;
   }
   
-  p {
+  .test_description {
     font-family: verdana;
     font-size: 20px;
   }
